@@ -1,3 +1,6 @@
 [submodule "Memo_2"]
 	path = Memo_2
 	url = git@github.com:Joaconte/Fiuba-Memo_2.git
+[submodule "Memo_1"]
+	path = Memo_1
+	url = git@github.com:Joaconte/Fiuba-Memo_1.git
