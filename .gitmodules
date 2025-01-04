@@ -7,3 +7,6 @@
 [submodule "Algo_3"]
 	path = Algo_3
 	url = https://github.com/Joaconte/Fiuba-Algo_3
+[submodule "Algo_2"]
+	path = Algo_2
+	url = git@github.com:Joaconte/Fiuba-Algo_2.git
